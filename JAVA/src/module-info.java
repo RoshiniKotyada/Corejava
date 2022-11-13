@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author sairoshinik
+ *
+ */
+module JAVA {
+}
